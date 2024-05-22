@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/meow/PROBABILITY/RegisterFile/tb_RegisterFile_isim_beh.exe" -prj "C:/meow/PROBABILITY/RegisterFile/tb_RegisterFile_beh.prj" "work.tb_RegisterFile" 

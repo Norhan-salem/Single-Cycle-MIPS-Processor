@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/meow/PROBABILITY/RegisterFile/tb_RegisterFile_isim_beh.exe -prj C:/meow/PROBABILITY/RegisterFile/tb_RegisterFile_beh.prj work.tb_RegisterFile 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/meow/PROBABILITY/RegisterFile/RegisterFile.vhd" into library work
+Parsing VHDL file "C:/meow/PROBABILITY/RegisterFile/tb_RegisterFile.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity RegisterFile [registerfile_default]
+Compiling architecture behavior of entity tb_registerfile
+Time Resolution for simulation is 1ps.
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\tb_RegisterFile_isim_beh.exe.sim\libPortability.dll".
+Compiled 6 VHDL Units
+Built simulation executable C:/meow/PROBABILITY/RegisterFile/tb_RegisterFile_isim_beh.exe
+Fuse Memory Usage: 35472 KB
+Fuse CPU Usage: 671 ms
