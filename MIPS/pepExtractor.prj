@@ -1,0 +1,3 @@
+work	"Mux2to1.vhd"
+work	"Tb_Mux.vhd"
+work	"controller.vhd"
